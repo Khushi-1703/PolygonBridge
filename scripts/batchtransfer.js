@@ -1,9 +1,9 @@
 const hre = require("hardhat");
 const rinftContractJSON = require("../artifacts/contracts/RiyaNFT.sol/RiNFT.json");
 
-const contract_address ="0xE92FA36277334a667F0Dc0c297A391b5ec5914B8"; // Replace with your RiNFT contract address
+const contract_address ="0x54f1181518FFf69EDc578690E7523b380B49914D"; // Replace with your RiNFT contract address
 const rinftABI = rinftContractJSON.abi;
-const walletAddress = "0xB48c24e5d5697550593b862C666Ae59e5B5671Be"; // Replace with your wallet address
+const walletAddress = "0x6B43fB1Dbd13C0763C4BC9062a2047C48eC56e65"; // Replace with your wallet address
 
 const fxRootContractABI = require("../fxRootContractABI.json");
 const fxERC21RootAddress = "0xF9bc4a80464E48369303196645e876c8C7D972de"; // Replace with your fxERC21Root contract address

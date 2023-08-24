@@ -14,11 +14,11 @@ module.exports = {
   networks: {
     mumbai: {
       url: 'https://rpc-mumbai.maticvigil.com',
-      accounts: ["5388c6ebb1f3edfec44a4da0807f5c10104cd326d71f649fd15e29e5291fe7d7"],
+      accounts: ["25db8a4bf5ce537e05bdfa24f844621206fd8be9a2d7ec6876496989e522e3a4"],
     },
     goerli: {
       url: 'https://eth-goerli.g.alchemy.com/v2/nyHyzW8RbkwSKnszaYmdcV-UAjmRa9AH',
-      accounts: ["5388c6ebb1f3edfec44a4da0807f5c10104cd326d71f649fd15e29e5291fe7d7"],
+      accounts: ["25db8a4bf5ce537e05bdfa24f844621206fd8be9a2d7ec6876496989e522e3a4"],
       gasPrice: 100
     },
   },
